@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 900;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Black'), url(./woff2/NotoSansCJKkr-Black.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Black.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 700;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Bold'), url(./woff2/NotoSansCJKkr-Bold.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Bold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 500;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Medium'), url(./woff2/NotoSansCJKkr-Medium.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Medium.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 400;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Regular'), url(./woff2/NotoSansCJKkr-Regular.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 300;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Light'), url(./woff2/NotoSansCJKkr-Light.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Light.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 200;
+	font-display: swap;
+	src: local('Noto Sans CJK KR DemiLight'), url(./woff2/NotoSansCJKkr-DemiLight.woff2) format('woff2'), url(./woff/NotoSansCJKkr-DemiLight.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans CJK KR';
+	font-weight: 100;
+	font-display: swap;
+	src: local('Noto Sans CJK KR Thin'), url(./woff2/NotoSansCJKkr-Thin.woff2) format('woff2'), url(./woff/NotoSansCJKkr-Thin.woff) format('woff');
+}
