@@ -13,12 +13,12 @@
   rel="stylesheet"
   as="style"
   crossorigin
-  href="https://cdn.jsdelivr.net/gh/ayaan-fonts/NotoSans-IsegyeUniverse/fonts/NotoSansCJKkr-dynamic-subset.css"
+  href="https://cdn.jsdelivr.net/gh/ayaan-fonts/NotoSans-IsegyeUniverse/fonts/webfonts/NotoSansCJKkr-dynamic-subset.css"
 />
 ```
 
 ### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/NotoSans-IsegyeUniverse/fonts/NotoSansCJKkr-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/NotoSans-IsegyeUniverse/fonts/webfonts/NotoSansCJKkr-dynamic-subset.css");
 ```

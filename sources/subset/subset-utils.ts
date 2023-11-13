@@ -20,7 +20,7 @@ export type TSubsetKinds = "static" | "glyph" | "dynamic";
 
 // == Constants ===============================================================
 const STATIC_PATH = join(process.cwd(), "..", "..", "fonts", "truetype");
-const STATIC_OUTPUT_PATH = join(process.cwd(), "..", "..", "fonts", "web");
+const STATIC_OUTPUT_PATH = join(process.cwd(), "..", "..", "fonts", "webfonts");
 
 export enum FONTFAMILY {
   NotoSansCJKkr = "NotoSansCJKkr",
