@@ -46,7 +46,9 @@ export async function clearDir(outDir: string) {
     await access(outDir);
     await rm(outDir, { recursive: true, force: true });
     await mkdir(outDir);
-  } catch (err) {}
+  } catch (err) {
+    await mkdir(outDir);
+  }
 }
 
 function getOutInfo(kinds: TSubsetKinds, format: Tformat) {
