@@ -37,7 +37,7 @@
 	font-family: 'Noto Sans CJK KR';
 	font-weight: 200;
 	font-display: swap;
-	src: local('Noto Sans CJK KR ExtraLight'), url(./woff2-subset/NotoSansCJKkr-ExtraLight.subset.woff2) format('woff2'), url(./woff-subset/NotoSansCJKkr-ExtraLight.subset.woff) format('woff');
+	src: local('Noto Sans CJK KR DemiLight'), url(./woff2-subset/NotoSansCJKkr-DemiLight.subset.woff2) format('woff2'), url(./woff-subset/NotoSansCJKkr-DemiLight.subset.woff) format('woff');
 }
 
 @font-face {
