@@ -4,6 +4,10 @@
 
 가급적이면 본 Repository에서 사용하기 보다는, Google Fonts에서 코드를 받아 사용하십시오.<br /><br />
 
+## 폰트 적용 Demo
+
+- [https://isegyeuniverse-stg.sskate.me/](https://isegyeuniverse-stg.sskate.me/)
+
 ## 웹폰트 Dynamic Subset CDN (JSDelivr)
 
 ### HTML
