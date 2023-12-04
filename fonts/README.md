@@ -6,7 +6,7 @@
 
 ## 폰트 적용 Demo
 
-- [https://isegyeuniverse-stg.sskate.me/](https://isegyeuniverse-stg.sskate.me/)
+- [https://isegyeuniverse-stg.sskate.me/font-test](https://isegyeuniverse-stg.sskate.me/font-test.html)
 
 ## 웹폰트 Dynamic Subset CDN (JSDelivr)
 
